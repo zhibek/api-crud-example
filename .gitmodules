@@ -1,0 +1,6 @@
+[submodule "service"]
+	path = service
+	url = git@github.com:zhibek/api-crud-example-service.git
+[submodule "client"]
+	path = client
+	url = git@github.com:zhibek/api-crud-example-client.git
